@@ -3,7 +3,7 @@
 	<groupId>com.javacreed.examples</groupId>
 	<artifactId>how-to-run-embedded-tomcat-with-maven</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>How To Run Embedded Tomcat with Maven</name>
+	<name>rest-api-to-delete-tenant</name>
 	<url>http://www.javacreed.com/how-to-run-embedded-tomcat-with-maven/</url>
 	<packaging>war</packaging>
 	<organization>
